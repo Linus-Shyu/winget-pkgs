@@ -4,7 +4,7 @@ InstallerType: zip
 Installers:
   - Architecture: x64
     InstallerUrl: https://github.com/Linus-Shyu/StarFetch_Core/releases/download/v0.2.3/starfetch-x86_64-pc-windows-msvc.zip
-    InstallerSha256: 877c0ea1c010dddbcecc98eb73ffe87be928ddf595c5c17d94f7b14747c38496
+    InstallerSha256: ed8075d18e14165f8606b173b40cef4c54a93a649181b563bc6f426489c3e194
     NestedInstallerType: portable
     NestedInstallerFiles:
       - RelativeFilePath: starfetch.exe
