@@ -6,4 +6,4 @@ PackageName: StarFetch
 License: MIT
 ShortDescription: A fast and stylish system information fetch tool
 ManifestType: defaultLocale
-ManifestVersion: 1.4.0
+ManifestVersion: 1.10.0
