@@ -1,10 +1,11 @@
 PackageIdentifier: Linus-Shyu.StarFetch
 PackageVersion: 0.2.3
 InstallerType: zip
+Scope: user
 Installers:
   - Architecture: x64
     InstallerUrl: https://github.com/Linus-Shyu/StarFetch_Core/releases/download/v0.2.3/starfetch-x86_64-pc-windows-msvc.zip
-    InstallerSha256: 479f59e6dd4aa8452e338d6480c49779a70ab787d96925c44db649e239db2f5c
+    InstallerSha256: FA37F5EC4A694905D95B194FCCC36F7BB67B6E414E9665091063F3F0DF00D635
     NestedInstallerType: portable
     NestedInstallerFiles:
       - RelativeFilePath: starfetch.exe
